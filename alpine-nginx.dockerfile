@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.10.1
 
 ENV NGINX_VERSION 1.11.1
 
